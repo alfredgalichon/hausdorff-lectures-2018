@@ -1,0 +1,57 @@
+
+Gurobi 7.0.2 (win64) logging started 10/09/17 14:17:11
+
+Optimize a model with 366 rows, 866 columns and 1732 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e+00, 6e+03]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 147 rows and 294 columns
+Presolve time: 0.00s
+Presolved: 219 rows, 572 columns, 1144 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   2.000000e+00   0.000000e+00      0s
+      71   -5.3943935e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 71 iterations and 0.01 seconds
+Optimal objective -5.394393536e+03
+
+Gurobi 7.0.2 (win64) logging started 10/09/17 18:29:51
+
+Optimize a model with 366 rows, 866 columns and 1732 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e+00, 6e+03]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 147 rows and 294 columns
+Presolve time: 0.00s
+Presolved: 219 rows, 572 columns, 1144 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   2.000000e+00   0.000000e+00      0s
+      71   -5.3943935e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 71 iterations and 0.01 seconds
+Optimal objective -5.394393536e+03
+
+Gurobi 7.0.2 (win64) logging started 03/06/18 13:05:04
+
+Optimize a model with 366 rows, 866 columns and 1732 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [6e+00, 6e+03]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 147 rows and 294 columns
+Presolve time: 0.00s
+Presolved: 219 rows, 572 columns, 1144 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   2.000000e+00   0.000000e+00      0s
+      71   -5.3943935e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 71 iterations and 0.01 seconds
+Optimal objective -5.394393536e+03
